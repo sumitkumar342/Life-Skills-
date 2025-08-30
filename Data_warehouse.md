@@ -43,4 +43,5 @@ Data warehouse is a virtual component of modern business, enabling organizations
 
 ## References
  [Google Cloud](https://cloud.google.com/learn/what-is-a-data-warehouse)
+ 
  [Tutorial point](https://www.tutorialspoint.com/dwh/dwh_data_warehousing.htm)
